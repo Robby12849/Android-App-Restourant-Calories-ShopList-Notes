@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/textViewId"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ID: "
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textViewPaese"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Paese:"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textViewNomeristorante"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Nome Ristorante:"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textViewData"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Data:"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textViewOra"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Ora:"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textViewSeggiolino"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Seggiolino:"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textViewTavoli"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Tavoli:"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textViewNpersone"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Persone:"
+        android:textStyle="bold" />
+</LinearLayout>

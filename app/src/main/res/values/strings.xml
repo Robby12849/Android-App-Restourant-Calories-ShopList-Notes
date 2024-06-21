@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name" translatable="false"> MultiSmartapp </string>
+    <string name="cosa_vuoi_fare">COSA VUOI FARE ?</string>
+    <string name="aggiungi_prodotto_alla_lista_della_spesa">LISTA SPESA</string>
+    <string name="aggiungi_appunto_nelle_note">APPUNTI</string>
+    <string name="conta_calorie_giornaliere">CONTA CALORIE</string>
+    <string name="btn_cerca_ristorante">CERCA RISTORANTE</string>
+    <string name="notes">Aggiungi  </string>
+    <string name="restaurant">CERCA RISTORANTE</string>
+    <string name="btn_add">AGGIUNGI</string>
+    <string name="txt_ID">ID</string>
+    <string name="txt_nome_prodotto">NOME\n</string>
+    <string name="txt_quantità">QTA</string>
+    <string name="btn_modifica">MODIFICA</string>
+    <string name="btn_cancella">CANCELLA</string>
+    <string name="txt_oggetto">oggetto</string>
+    <string name="txt_numero">numero</string>
+    <string name="msg_driver_deleted_successful">ELIMINATO CON SUCCESSO</string>
+    <string name="msg_driver_deleted_error">IMPOSSIBILE ELIMINARE\n</string>
+    <string name="msg_driver_updated_successful">MODIFICATO CON SUCCESSO</string>
+    <string name="msg_driver_updated_error">ERRORE NELLA MODIFICA</string>
+    <string name="txt_note">TUTTE LE NOTE</string>
+    <string name="txt_nota">CONTENUTO</string>
+    <string name="txt_pasto">SCEGLI UN PASTO</string>
+    <string name="btn_sum">"VISUALIZZA SOMMA CALORIE DI UN GIORNO "</string>
+    <string name="txt_data">AGGIUNGI UNA DATA</string>
+    <string name="btn_calorie">CALCOLA CALORIE</string>
+    <string name="btn_limit">DATE IN CUI HAI MANGIATO TROPPO</string>
+    <string name="txt_limite">LIMITE DA INSERIRE</string>
+    <string name="btn_visualizza">VISUALIZZA PRENOTAZIONI</string>
+    <string name="txt_numero_persone">QUANTE PERSONE A TAVOLO ?\n</string>
+    <string name="txt_unapers">1 PERSONA</string>
+    <string name="txt_duepers">2 PERSONE</string>
+    <string name="txt_trepers">3 PERSONE</string>
+    <string name="txt_quatpers">4 PERSONE</string>
+    <string name="txt_numero_tavoli">QUANTI TAVOLI?</string>
+    <string name="txt_seggiolone">SEGGIOLONE?</string>
+    <string name="chk_si">SI</string>
+    <string name="chk_no">NO</string>
+    <string name="txt_numero_seggioloni">QUANTI?</string>
+    <string name="btn_prenota">PRENOTA</string>
+    <string name="txt_opera">OPERA</string>
+    <string name="txt_carducci">CARDUCCI</string>
+    <string name="txt_piccinni">PICCINNI 28</string>
+    <string name="txt_santalucia">SANTALUCIA</string>
+    <string name="txt_labufalina">LA BUFALINA</string>
+    <string name="txt_danennella">DA NENNELLA</string>
+    <string name="txt_poldo">POLDO PUB</string>
+    <string name="txt_erricoporzio">ERRICO PORZIO</string>
+    <string name="txt_acanto">ACANTO</string>
+    <string name="txt_pepenero">PEPE NERO</string>
+    <string name="txt_replay">REPLAY</string>
+    <string name="txt_le5terre">LE CINQUE TERRE</string>
+    <string name="txt_piccolomondo">PICCOLO MONDO</string>
+    <string name="txt_saporisardi">SAPORI SARDI</string>
+    <string name="txt_lafamiglia">LA FAMIGLIA</string>
+    <string name="txt_mazze">MAZZE</string>
+    <string name="string_txt_error_dati">Inserisci tutti i dati</string>
+    <string name="txt_tavolo">Seleziona il numero di persone per tavolo</string>
+    <string name="txt_error_tavoli">Inserisci il numero di tavoli</string>
+    <string name="txt_limite_insert">Inserisci un limite</string>
+    <string name="txt_error_nota">Inserisci il testo della nota</string>
+    <string name="txt_error_reservation">Prenotazione non valida</string>
+    <string name="txt_mess_inserito">Messaggio inserito</string>
+    <string name="txt_error_mess">Non inserito</string>
+    <string name="txt_data_imput">Inserisci una data</string>
+    <string name="txt_error_dati">Per favore, inserisci i dettagli correttamente</string>
+    <string name="txt_nota_non_valida">La nota selezionata non è valida</string>
+    <string name="txt_completa_campi">Per favore, completa tutti i campi</string>
+    <string name="txt_pasto_aggiornato">Pasto aggiornato con successo</string>
+    <string name="txt_pasto_error">Errore durante l\'aggiornamento del pasto</string>
+    <string name="txt_pasto_eliminato">Pasto eliminato con successo</string>
+    <string name="txt_error_eliminazione_pasto">Errore durante l\'eliminazione del pasto</string>
+    <string name="txt_pasto_nonvalido">Pasto non valido</string>
+    <string name="txt_dati_incorretti">Per favore, inserisci i dettagli correttamente</string>
+    <string-array name="spn_qta_spesa">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="list_view_meal">
+        <item>Colazione</item>
+        <item>Pranzo</item>
+        <item>Spuntino</item>
+        <item>Cena</item>
+    </string-array>
+    <string-array name="pasti">
+        <item>Colazione</item>
+        <item>Pranzo</item>
+        <item>Spuntino</item>
+        <item>Cena</item>
+    </string-array>
+</resources>
